@@ -1,7 +1,7 @@
 # Canopy Glass Shader
 A simple glass shader made with Amplify.
 	
-Proerly highlights the glass scratches by the sun direction.
+Properly highlights the glass scratches by the sun direction.
 
 In VRC i recommend to use lite version. 
 For TwoSide verion: Paint the outer glass mesh with black vertex colors, and inner with white.
